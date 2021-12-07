@@ -135,7 +135,7 @@ class XYZ {
     cyringe<XYZ>::release();
   }
   float origin();
-}  
+}
 ```
 
 ## Requires
